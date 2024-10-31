@@ -1,5 +1,6 @@
 # ASA ServerAPI CMake example
-
+# Warning
+This template is outdate and you must update the submodule to https://github.com/ArkServerApi/AsaApi
 This is an example of how to make a ASA ServerAPI plugin with CMake.
 
 ## How to use
